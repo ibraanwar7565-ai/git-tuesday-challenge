@@ -1,1 +1,2 @@
 This is my first Git challenge note. 
+I added a second line to complete the update. 
